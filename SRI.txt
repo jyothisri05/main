@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+<BODY>
+        <!-- Write some content for web page -->
+        Type anything inside body tag to get visible on web/browser
+        <H1> Heading: Welcome Welcome to HTML </H1>
+        <P>Paragraph: This is my first HTML page</P>
+        <li>Bullet List Item</li> <br  />
+        <Button>Click me</Button>
+</BODY>
+</HEAD>
+</HTML>
